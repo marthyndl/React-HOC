@@ -1,7 +1,7 @@
 import { createStore } from 'redux';
 
 const defaultState = {
-  name: 'leo',
+  name: 'Martín',
   ids: [1, 2, 3, 4, 5]
 };
 
